@@ -1,0 +1,10 @@
+.idea
+node_modules
+minty-deployment.json
+auction.json
+config/default.env
+.env
+
+#Hardhat files
+cache
+artifacts
